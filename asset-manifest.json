@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dodoMarketplace/static/css/main.00980ad0.css",
+    "main.js": "/dodoMarketplace/static/js/main.8621a997.js",
+    "static/media/market.webp": "/dodoMarketplace/static/media/market.0f3ae8367a3a56b66b5f.webp",
+    "index.html": "/dodoMarketplace/index.html",
+    "main.00980ad0.css.map": "/dodoMarketplace/static/css/main.00980ad0.css.map",
+    "main.8621a997.js.map": "/dodoMarketplace/static/js/main.8621a997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00980ad0.css",
+    "static/js/main.8621a997.js"
+  ]
+}
