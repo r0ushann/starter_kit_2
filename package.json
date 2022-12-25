@@ -17,6 +17,7 @@
     "chai": "^4.3.6",
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.5.4",
+    "gh-pages": "^4.0.0",
     "hardhat": "^2.8.4",
     "ipfs-http-client": "^56.0.1",
     "react": "^17.0.2",
@@ -31,7 +32,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
