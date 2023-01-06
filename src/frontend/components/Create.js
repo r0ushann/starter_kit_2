@@ -5,8 +5,8 @@ import { Row, Form, Button } from 'react-bootstrap'
 import { create as ipfsHttpClient } from 'ipfs-http-client'
 //const client = ipfsHttpClient('https://ipfs.infura.io:5001/api/v0')
 
-const projectId = "2JNIx1crQpX1oyLKij2Am7GrC1D";
-const projectSecret = "16337379ed6a4b9a17f5626f981b0c8d";
+const projectId = "2Jp4fmrOETxHNtSwW9EB9TrCQHO";
+const projectSecret = "16c6e848f1b99b7c61ac015e463d20a7";
 const subdomain = "https://roushann.infura-ipfs.io";
 // Pay attentnion at the space between Basic and the $ in the next line
 // encrypt the authorization
