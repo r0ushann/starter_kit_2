@@ -3,6 +3,7 @@ import { ethers } from "ethers"
 import { Buffer } from "buffer";
 import { Row, Form, Button } from 'react-bootstrap'
 import { create as ipfsHttpClient } from 'ipfs-http-client'
+require('dotenv').config()
 //const client = ipfsHttpClient('https://ipfs.infura.io:5001/api/v0')
 
 const projectId = "2Jp4fmrOETxHNtSwW9EB9TrCQHO";
